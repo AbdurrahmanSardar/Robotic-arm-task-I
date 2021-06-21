@@ -3,7 +3,7 @@ Welcome to the **Robotic-arm-task-I**, In this repository I'm required to design
 
 I have used Tinker CAD to simulate the model and you can check for the website link at the end of this text.
 Let me explain shortly what I have done through this project. I have connected all the six servo motors with power and ground connection
-(red and black wires) coming from Arduino care +5V and GND ports, and each motor has its unique signal connection with Arduino board (from portpin7 to 12)(orange colored wire of each motor). Then, I have coded it such that all the motors move to 90 degrees and come back repeatedly after running the code.
+(red and black wires) coming from Arduino care +5V and GND ports, and each motor has its unique signal connection with Arduino board (from portpin7 to 12)(orange colored wire of each motor). Then, I have coded it such that all the motors move to 90 degrees then wait for a specific amout of time (in milli seconds) and come back repeatedly after running the code. 
 
 Let me introduce all the **attachment** in this repository. There are several files with the following extensions
 **rbd** file, which is a simulation file from Tinker CAD simulation website.

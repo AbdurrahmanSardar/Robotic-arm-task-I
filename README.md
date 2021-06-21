@@ -11,7 +11,7 @@ Let me explain shortly what I have done through this project. I have connected a
 **ATTACHMENTS**
 
 Let me introduce all the **attachments** in this repository. There are several files with the following extensions:
-**rbd** file, which is a simulation file from Tinker CAD simulation website.
+**brd** file, which is a simulation file from Tinker CAD simulation website.
 **ino** file, which is an Arduino code to control all servo motors.
 and there are two **PNG** files to show the simulation before and after running the simulation and the code.
 

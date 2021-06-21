@@ -10,12 +10,12 @@ Let me explain shortly what I have done through this project. I have connected a
 
 **ATTACHMENTS**
 
-Let me introduce all the **attachments** in this repository. There are several files with the following extensions
+Let me introduce all the **attachments** in this repository. There are several files with the following extensions:
 **rbd** file, which is a simulation file from Tinker CAD simulation website.
 **ino** file, which is an Arduino code to control all servo motors.
 and there are two **PNG** files to show the simulation before and after running the simulation and the code.
 
-If you are working on this in real life please check for the connection of each element carefully as shown in the simulation file of the pictures attached before running for the safety of your tools .
+If you are working on this in real life please check for the connection of each element carefully as shown in the simulation file of the pictures attached before running for the safety of your tools.
 
 
 [TinkerCAD link](https://www.tinkercad.com/things/c5ImFFamxAI-multi-servo-motors-without-potentiometers/editel?sharecode=1p97PdqWP9d7-7FAVfQ3gKn8-BON8Lze1BickurtIwk)

@@ -1,5 +1,5 @@
-# Robotic-arm-task-I
-Welcome to the **Robotic-arm-task-I**, In this repository I'm required to design an electronical model of a **multi-servo motors** and control it so it moves to a certain angle let's say 90 degree for example and return back to its initial angle.
+# Robotic-arm-task-I 
+Welcome to the **Robotic-arm-task-I**, In this repository I have **designed an electronic model to control six servo motors** and **control their angle to be at 90 degrees** ,but actually it can moves to a any other angle from (0 to 180) degrees.
 
 I have used Tinker CAD to simulate the model and you can check for the website link at the end of this text.
 Let me explain shortly what I have done through this project. I have connected all the six servo motors with power and ground connection

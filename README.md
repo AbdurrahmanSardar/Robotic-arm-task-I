@@ -5,7 +5,7 @@ I have used Tinker CAD to simulate the model and you can check for the website l
 Let me explain shortly what I have done through this project. I have connected all the six servo motors with power and ground connection
 (red and black wires) coming from Arduino card +5V and GND ports, and each motor has its unique signal connection with Arduino board (from portpin7 to 12)(orange colored wire of each motor). Then, I have coded it such that all the motors move to 90 degrees then wait for a specific amout of time (in milli seconds) and come back repeatedly after running the code. 
 
-Let me introduce all the **attachment** in this repository. There are several files with the following extensions
+Let me introduce all the **attachments** in this repository. There are several files with the following extensions
 **rbd** file, which is a simulation file from Tinker CAD simulation website.
 **ino** file, which is an Arduino code to control all servo motors.
 and there are two **PNG** files to show the simulation before and after running the simulation and the code.
